@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Floris-Pset-4</string>
+    <string name="enter_title">Enter task</string>
+    <string name="enter_task">Enter task</string>
+    <string name="add_task">add task</string>
+    <string name="btn_delete">delete</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="no_tasks_to_display">No tasks to display</string>
+</resources>
